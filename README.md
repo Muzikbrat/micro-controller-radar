@@ -1,4 +1,4 @@
- micro-controller-radar
+# micro-controller-radar
 
 We have different ways to measure the distance. One way is to use ultrasonic module for distance measurement. An ultrasonic pulse is generated in a particular direction. If there is an object in the path of this pulse, part or all of the pulse will be reflected back to the transmitter as an echo and can be detected through the receiver path. The mechanism of the ultrasonic sensor is similar to the RADAR (Radio detection and ranging).
 
